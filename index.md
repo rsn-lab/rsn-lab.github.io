@@ -21,7 +21,14 @@ Our research methodology is two-pronged:
   - [DBLP](https://dblp.org/pid/42/3703.html)
 
 ### Some of Our Ongoing and Recent Projects
-
+* Agricultural Robotics
+  * [Yield Mapping](https://rsn.umn.edu/projects/orchard-monitoring)
+  * [Fruit Picking](https://arxiv.org/abs/1804.09771)
+  * [CoWBot](https://rsn.umn.edu/projects/cowbot)
+  * [Row Crops](https://conservancy.umn.edu/items/05b57608-7dde-4534-99f4-9495c013a9a4)
+* Environmental Monitoring
+  * [Tracking invasive fish with autonomous boats](https://rsn.umn.edu/projects/carp-tracking)
+  * [Aerial monitoring](https://ksengin.github.io/papers/mrs2017tracking.pdf)
 * [Uniformly Sampling Trajectories](https://ogpoyrazoglu.github.io/cuniform_sampling/)
 * [Robot Follow-Ahead](https://qingyuan-jiang.github.io/iros2024_poseForecasting/)
 * [Pursuit-Evasion](https://gonultasbu.github.io/pursuit-evasion/)
