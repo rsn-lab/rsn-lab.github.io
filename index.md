@@ -2,17 +2,12 @@
 layout: default
 ---
 
-**NOTE:** The RSN Lab is in the process of moving from the University of Minnesota to the University of Texas at Austin. 
+**NOTE:** The RSN Lab is in the process of moving from the University of Minnesota to the University of Texas at Austin [CS](https://www.cs.utexas.edu) and [Texas Robotics](https://robotics.utexas.edu). 
 We are building this new website as part of the move. During construction you can visit [Prof. Isler's website](https://www-users.cse.umn.edu/~isler/) or
 the [the current RSN website](https://rsn.umn.edu/) for more information. 
 
 
-The **Robotics, Sensing and Networks** Laboratory was established in 2005 with the goal of developing robotic systems that can operate in dynamic and complex systems. Such systems often involve multiple robots and perform tasks involving ensing and communication.
-
-Our research methodology is two-pronged:
-
-* Theory
-* Systems
+The **Robotics, Sensing and Networks** Laboratory was established in 2005 with the goal of developing robotic systems that can operate in dynamic and complex systems. Such systems often involve multiple robots and perform tasks involving sensing and communication. h
 
 
 - [Lab members (current and former)](people.md)
@@ -20,6 +15,13 @@ Our research methodology is two-pronged:
 - Publications 
   - [Google Scholar](https://scholar.google.com/citations?user=Q5KT-hEAAAAJ&hl=en)
   - [DBLP](https://dblp.org/pid/42/3703.html)
+
+
+### Research Philosophy 
+Our research methodology is two-pronged:
+
+* Theory
+* Systems
 
 ### Some of Our Ongoing and Recent Projects
 * Agricultural Robotics
