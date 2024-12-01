@@ -1,7 +1,10 @@
-# Lab Director
-* Volkan Isler
+---
+layout: default
+---
+## Lab Director
+* [Volkan Isler](https://www-users.cse.umn.edu/~isler/) 
 
-# Current PhD students
+## Current PhD students
 * Jiacheng Yuan
 * Burak Mert Gonultas
 * Qingyuan Jiang
@@ -11,14 +14,14 @@
 * Rahul Moorthy Mahesh
 
 
-# Current MS Students
+## Current MS Students
 * Yukang Cao
 
-# Current Undergrads 
+## Current Undergrads 
 * William Chastek
 
 
-# PhD Alumni
+## PhD Alumni
 0. Nicolai Haeni
 0. Selim Engin
 0. Minghan Wei
@@ -35,7 +38,7 @@
 0. Eric Meisner
 {: reversed="reversed"}
 
-# Former Postodcs
+## Former Postodcs
 0. Pratik Mukherjee
 0. Parikshit Maini
 0. Haluk Bayram
@@ -46,7 +49,7 @@
 {: reversed="reversed"}
 
 
-#Former Undergraduate Researchers
+## Former Undergraduate Researchers
 - Dennis Melamed (2017-18; now M.S. student at CMU)
 - Abhi Kamboj (summer 2017)
 - Alan Koval (summer 2017)
@@ -75,7 +78,7 @@
 - Shaun Gosse (REU - Summer 2010)
 - Maxwell Collins, B.S., UMN, 2009. Now PhD student in UW-Madison
 
-# International Visitors
+## International Visitors
 - Ya (Bill) Xiong, NMBU, Norway
 - Christophe Reymann, LAAS, France
 - Nicolai Haeni, Zurich University of Applied Sciences
