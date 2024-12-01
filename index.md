@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**NOTE:** The RSN Lab is in the process of moving from the University of Minneosta to the University of Texas at Austin. 
+**NOTE:** The RSN Lab is in the process of moving from the University of Minnesota to the University of Texas at Austin. 
 We are building this new website as part of the move. During construction you can visit [Prof. Isler's website](https://www-users.cse.umn.edu/~isler/) or
 the [the current RSN website](https://rsn.umn.edu/) for more information. 
 
