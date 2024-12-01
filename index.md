@@ -2,11 +2,10 @@
 layout: default
 ---
 
-```
-The RSN Lab is in the process of moving from the University of Minneosta to the University of Texas at Austin. 
+**NOTE:** The RSN Lab is in the process of moving from the University of Minneosta to the University of Texas at Austin. 
 We are building this new website as part of the move. During construction you can visit [Prof. Isler's Website](https://www-users.cse.umn.edu/~isler/) or
 the [the current RSN website](https://rsn.umn.edu/) for more information. 
-```
+
 
 The **Robotics, Sensing and Networks** Laboratory was established in 2005 with the goal of developing robotic systems which can operate in dynamic and complex systems. Such systems often involve multiple robots and perform tasks involving ensing and communication.
 
