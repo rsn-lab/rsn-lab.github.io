@@ -13,10 +13,30 @@ The RSN Lab is in the process of moving from the University of Minneosta to the 
 We are building this new website as part of the move. During construction you can visit [Prof. Isler's Website](https://www-users.cse.umn.edu/~isler/) or
 the [the current RSN website](https://rsn.umn.edu/) for more information. 
 
-- [Lab members (former and current)](people.md).
+- [Lab members (current and former)](people.md).
 - Publications 
   - [Google Scholar](https://scholar.google.com/citations?user=Q5KT-hEAAAAJ&hl=en)
   - [DBLP](https://dblp.org/pid/42/3703.html)
+
+### Some of Our Ongoing and Recent Projects
+
+* [Uniformly Sampling Trajectories](https://ogpoyrazoglu.github.io/cuniform_sampling/)
+* [Robot Follow-Ahead](https://qingyuan-jiang.github.io/iros2024_poseForecasting/)
+* [Pursuit-Evasion](https://gonultasbu.github.io/pursuit-evasion/)
+* [Generative Models for Polygons](https://rahulmoorthy19.github.io/VisDiff/)
+* [Reactive Motion Planning](https://samsunglabs.github.io/RAMP-project-page/)
+* [Hierarchical Online Signed Distance Functions](https://samsunglabs.github.io/HIO-SDF-project-page/)
+* [Cost-to-Go Function Generating Networks for High Dimensional Motion Planning](https://sites.google.com/view/jinwookhuh/)
+* [Geometrically Grounding LLMs](https://arxiv.org/abs/2310.20034)
+* [Higher Order Function Networks](https://saic-ny.github.io/hof/)
+* [FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection](https://samsunglabs.github.io/FineControlNet-project-page/)
+* [VioLA: Aligning Videos to 2D LiDAR Scans](https://samsunglabs.github.io/viola-project-page/)
+* [RIC: Rotate-Inpaint-Complete for Generalizable Scene Reconstruction](https://samsunglabs.github.io/RIC-project-page/)
+* [Real-time Simultaneous Multi-Object 3D Shape Reconstruction, 6DoF Pose Estimation and Dense Grasp Prediction](https://samsunglabs.github.io/SceneGrasp-project-page/)
+* [Neural Optimal Control using Learned System Dynamics](https://arxiv.org/abs/2302.09846)
+* [Continuous Object Representation Networks: Novel View Synthesis without Target View Supervision](https://nicolaihaeni.github.io/corn/)
+* [Category-Level Global Camera Pose Estimation with Multi-Hypothesis Point Cloud Correspondences](https://arxiv.org/pdf/2209.14419)
+
 
 ### Historical Note
 
