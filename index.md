@@ -7,7 +7,7 @@ We are building this new website as part of the move. During construction you ca
 the [the current RSN website](https://rsn.umn.edu/) for more information. 
 
 
-The **Robotics, Sensing and Networks** Laboratory was established in 2005 with the goal of developing robotic systems which can operate in dynamic and complex systems. Such systems often involve multiple robots and perform tasks involving ensing and communication.
+The **Robotics, Sensing and Networks** Laboratory was established in 2005 with the goal of developing robotic systems that can operate in dynamic and complex systems. Such systems often involve multiple robots and perform tasks involving ensing and communication.
 
 Our research methodology is two-pronged:
 
@@ -25,7 +25,7 @@ Our research methodology is two-pronged:
 * Agricultural Robotics
   * [Yield Mapping](https://rsn.umn.edu/projects/orchard-monitoring)
   * [Fruit Picking](https://arxiv.org/abs/1804.09771)
-  * [CoWBot](https://rsn.umn.edu/projects/cowbot)
+  * [CowBot](https://rsn.umn.edu/projects/cowbot)
   * [Row Crops](https://conservancy.umn.edu/items/05b57608-7dde-4534-99f4-9495c013a9a4)
 * Environmental Monitoring
   * [Tracking invasive fish with autonomous boats](https://rsn.umn.edu/projects/carp-tracking)
