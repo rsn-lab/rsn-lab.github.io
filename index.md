@@ -24,29 +24,7 @@ In our 20th anniversary, we modified our name from _Robotic Sensor Networks_ Lab
 
 
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![RSN](https://rsn.umn.edu/sites/rsn.umn.edu/files/2020-12/600px-Rsn-sept-2017-harvest_0.png)
 
 
 ```
