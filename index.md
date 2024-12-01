@@ -15,7 +15,8 @@ Our research methodology is two-pronged:
 * Systems
 
 
-- [Lab members (current and former)](people.md).
+- [Lab members (current and former)](people.md)
+- [Some good times](https://rsn.umn.edu/activities)
 - Publications 
   - [Google Scholar](https://scholar.google.com/citations?user=Q5KT-hEAAAAJ&hl=en)
   - [DBLP](https://dblp.org/pid/42/3703.html)
