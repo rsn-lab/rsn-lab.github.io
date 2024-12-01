@@ -4,3 +4,5 @@ plugins:
 
 title: ["Welcome to RSN!"]
 description: ["Robotics, Sensing and Networks"]
+logo: rsn-logo.png
+
