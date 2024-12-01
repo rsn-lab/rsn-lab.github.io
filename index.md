@@ -7,10 +7,9 @@ We are building this new website as part of the move. During construction you ca
 the [the current RSN website](https://rsn.umn.edu/) for more information. 
 
 
-The **Robotics, Sensing and Networks** Laboratory was established in 2005 with the goal of developing robotic systems that can operate in dynamic and complex systems. Such systems often involve multiple robots and perform tasks involving sensing and communication. h
+The **Robotics, Sensing and Networks** Laboratory was established in 2005 with the goal of developing robotic systems that can operate in dynamic and complex environments. Such systems often involve multiple robots and perform tasks involving sensing and communication. We call them _Robotic Sensor Networks_.
 
-
-- [Lab members (current and former)](people.md)
+- [Lab members](people.md)
 - [Some good times](https://rsn.umn.edu/activities)
 - Publications 
   - [Google Scholar](https://scholar.google.com/citations?user=Q5KT-hEAAAAJ&hl=en)
@@ -18,10 +17,15 @@ The **Robotics, Sensing and Networks** Laboratory was established in 2005 with t
 
 
 ### Research Philosophy 
-Our research methodology is two-pronged:
 
-* Theory
-* Systems
+In our lab, we study fundamental problems which arise in RSN tasks and build RSN systems for representative applications. 
+
+For example, visibility plays an important role in robotic systems. We study mathematical properties of visibility using both [classical methods](https://ieeexplore.ieee.org/document/1273987) and [modern learning based approaches](https://rahulmoorthy19.github.io/VisDiff/). In the past, we solved a number of classical [visibiliy based pursuit-evasion games](https://conservancy.umn.edu/items/90b2aed5-3861-4a51-9768-4089a8083a9b). We are now investigating [learning based belief state representations](https://sites.google.com/umn.edu/pebs) and [reinforcement learning based methods](https://gonultasbu.github.io/pursuit-evasion/) for pursuit-evasion. 
+
+
+In addition to these fundamental results, we deployed field-grade robotic systems for environmental monitoring, agriculture and home automation applications. Below, you can find a sampling of these projects. 
+
+
 
 ### Some of Our Ongoing and Recent Projects
 * Agricultural Robotics
