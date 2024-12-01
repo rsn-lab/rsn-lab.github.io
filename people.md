@@ -22,30 +22,30 @@ layout: default
 
 
 ## PhD Alumni
-0. Nicolai Haeni
-0. Selim Engin
-0. Minghan Wei
-0. Nikolaos Stefas
-0. Wenbo Dong
-0. Cheng Peng
-0. Pravakar Roy
-0. Patrick Plonski
-0. Narges Noori
-0. Josh Vanderhook
-0. Pratap Tokekar
-0. Nikhil Karnad
-0. Onur Tekdas
-0. Eric Meisner
+0. Nicolai Haeni (MagicLeap)
+0. Selim Engin (Sony Research)
+0. Minghan Wei (Florida Atlantic University)
+0. Nikolaos Stefas (Startup)
+0. Wenbo Dong (Target AI)
+0. Cheng Peng (Meta Reality Labs)
+0. Pravakar Roy (Apple)
+0. Patrick Plonski (Farm Vision Technologies)
+0. Narges Noori (Waymo)
+0. Josh Vanderhook (Startup)
+0. Pratap Tokekar (University of Maryland)
+0. Nikhil Karnad (Google)
+0. Onur Tekdas (Google)
+0. Eric Meisner (Google)
 {: reversed="reversed"}
 
-## Former Postodcs
-0. Pratik Mukherjee
-0. Parikshit Maini
-0. Haluk Bayram
-0. Krishna Doddapananeni
-0. Ubaldo Ruiz
-0. Alessandro Renzaglia
-0. Behcet Ugur Toreyin
+## Former Postdocs
+0. Pratik Mukherjee (Florida Atlantic University)
+0. Parikshit Maini (University of Nevada Reno)
+0. Haluk Bayram (Istanbul Medeniyet University)
+0. Krishna Doddapananeni (Amazon)
+0. Ubaldo Ruiz (Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE))
+0. Alessandro Renzaglia (INRIA)
+0. Behcet Ugur Toreyin (Istanbul Technical University)
 {: reversed="reversed"}
 
 
