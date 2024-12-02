@@ -18,7 +18,7 @@ The **Robotics, Sensing and Networks** Laboratory was established in 2005 with t
 
 ### Research Philosophy 
 
-In our lab, we study fundamental problems which arise in RSN tasks and build RSN systems for representative applications. 
+In our lab, we study fundamental problems that arise in RSN tasks and build RSN systems for representative applications. 
 
 For example, visibility plays an important role in robotic systems. We study mathematical properties of visibility using both [classical methods](https://ieeexplore.ieee.org/document/1273987) and [modern learning based approaches](https://rahulmoorthy19.github.io/VisDiff/). In the past, we solved a number of classical [visibiliy based pursuit-evasion games](https://conservancy.umn.edu/items/90b2aed5-3861-4a51-9768-4089a8083a9b). We are now investigating [learning based belief state representations](https://sites.google.com/umn.edu/pebs) and [reinforcement learning based methods](https://gonultasbu.github.io/pursuit-evasion/) for pursuit-evasion. 
 
@@ -54,9 +54,11 @@ In addition to these fundamental results, we deployed field-grade robotic system
 * [Category-Level Global Camera Pose Estimation with Multi-Hypothesis Point Cloud Correspondences](https://arxiv.org/pdf/2209.14419)
 
 
-### Historical Note
+### Historical Notes
 
-In our 20th anniversary, we modified our name from _Robotic Sensor Networks_ Lab to _Robotics, Sensing and Networks_ Lab to reflect the broadening scope of our research. 
+Our logo was designed by Nikhil Karnad
+
+On our 20th anniversary, we modified our name from _Robotic Sensor Networks_ Lab to _Robotics, Sensing and Networks_ Lab to reflect the broadening scope of our research. 
 
 
 
