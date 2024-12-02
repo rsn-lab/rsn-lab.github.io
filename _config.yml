@@ -6,5 +6,6 @@ title: ["Welcome to RSN!"]
 description: ["Robotics, Sensing and Networks"]
 logo: rsn-logo.png
 show_downloads: false
-
+github:
+  is_project_page: false
 
