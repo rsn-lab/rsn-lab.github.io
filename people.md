@@ -22,20 +22,20 @@ layout: default
 
 
 ## PhD Alumni
-0. Nicolai Haeni (MagicLeap)
-0. Selim Engin (Sony Research)
-0. Minghan Wei (Florida Atlantic University)
-0. Nikolaos Stefas (Startup)
-0. Wenbo Dong (Target AI)
-0. Cheng Peng (Meta Reality Labs)
-0. Pravakar Roy (Apple)
-0. Patrick Plonski (Farm Vision Technologies)
-0. Narges Noori (Waymo)
-0. Josh Vanderhook (Startup)
-0. Pratap Tokekar (University of Maryland)
-0. Nikhil Karnad (Google)
-0. Onur Tekdas (Google)
-0. Eric Meisner (Google)
+0. Nicolai Haeni (MagicLeap) [thesis](https://hdl.handle.net/11299/258747)
+0. Selim Engin (Sony Research) [thesis](https://hdl.handle.net/11299/258728)
+0. Minghan Wei (Florida Atlantic University) [thesis](https://hdl.handle.net/11299/226668)
+0. Nikolaos Stefas (Startup) [thesis](https://hdl.handle.net/11299/216332)
+0. Wenbo Dong (Target AI) [thesis](https://hdl.handle.net/11299/224609)
+0. Cheng Peng (Meta Reality Labs) [thesis](https://hdl.handle.net/11299/226644)
+0. Pravakar Roy (Apple) [thesis](https://hdl.handle.net/11299/211321)
+0. Patrick Plonski (Farm Vision Technologies) [thesis](https://hdl.handle.net/11299/215070)
+0. Narges Noori (Waymo) [thesis](https://hdl.handle.net/11299/178937)
+0. Josh Vanderhook (Startup) [thesis](https://hdl.handle.net/11299/175716)
+0. Pratap Tokekar (University of Maryland) [thesis](https://hdl.handle.net/11299/168316)
+0. Nikhil Karnad (Google) [thesis](https://hdl.handle.net/11299/175532)
+0. Onur Tekdas (Google) [thesis](https://hdl.handle.net/11299/112774)
+0. Eric Meisner (Google) [thesis](https://www.cs.rpi.edu/research/phdabstracts/meisner.html)
 {: reversed="reversed"}
 
 ## Former Postdocs
