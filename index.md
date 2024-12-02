@@ -12,6 +12,7 @@ The **Robotics, Sensing and Networks** Laboratory was established in 2005 with t
 - [Lab members](people.md)
 - [Some good times](https://rsn.umn.edu/activities)
 - Publications 
+  - [Theses][theses.md]
   - [Google Scholar](https://scholar.google.com/citations?user=Q5KT-hEAAAAJ&hl=en)
   - [DBLP](https://dblp.org/pid/42/3703.html)
 
