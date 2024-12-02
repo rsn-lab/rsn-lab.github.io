@@ -48,6 +48,19 @@ layout: default
 0. Behcet Ugur Toreyin (Istanbul Technical University)
 {: reversed="reversed"}
 
+## MS Alumni
+- Rahul Moorthy Mahesh
+- Abhijeet Kislay
+- Rudragouda Pharale
+- Gabriel Oliveira
+- Roman Ripp
+- Deepak Bhadauria
+- Ryan Lloyd
+- Da-Hey Woo
+- Nikhil Karnad
+- Onur Tekdas
+- Wei Yang
+- Seema Kamath
 
 ## Former Undergraduate Researchers
 - Dennis Melamed (2017-18; now M.S. student at CMU)
