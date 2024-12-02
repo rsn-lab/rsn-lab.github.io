@@ -2,12 +2,12 @@
 layout: default
 ---
 
-**NOTE:** The RSN Lab is in the process of moving from the University of Minnesota to the University of Texas at Austin [CS](https://www.cs.utexas.edu) and [Texas Robotics](https://robotics.utexas.edu). 
+**NOTE:** The RSN Lab is in the process of moving from the University of Minnesota to the University of Texas at Austin: [CS](https://www.cs.utexas.edu) and [Texas Robotics](https://robotics.utexas.edu). 
 We are building this new website as part of the move. During construction you can visit [Prof. Isler's website](https://www-users.cse.umn.edu/~isler/) or
 the [the current RSN website](https://rsn.umn.edu/) for more information. 
 
 
-The **Robotics, Sensing and Networks** Laboratory was established in 2005 with the goal of developing robotic systems that can operate in dynamic and complex environments. Such systems often involve multiple robots and perform tasks involving sensing and communication. We call them _Robotic Sensor Networks_.
+The **Robotics, Sensing and Networks** Laboratory was established in 2005 with the goal of developing robotic systems that can operate in dynamic and complex environments. Such systems often involve multiple robots, and perform tasks involving sensing and communication. We call them _Robotic Sensor Networks_.
 
 - [Lab members](people.md)
 - [Some good times](https://rsn.umn.edu/activities)
@@ -20,10 +20,10 @@ The **Robotics, Sensing and Networks** Laboratory was established in 2005 with t
 
 In our lab, we study fundamental problems that arise in RSN tasks and build RSN systems for representative applications. 
 
-For example, visibility plays an important role in robotic systems. We study mathematical properties of visibility using both [classical methods](https://ieeexplore.ieee.org/document/1273987) and [modern learning based approaches](https://rahulmoorthy19.github.io/VisDiff/). In the past, we solved a number of classical [visibiliy based pursuit-evasion games](https://conservancy.umn.edu/items/90b2aed5-3861-4a51-9768-4089a8083a9b). We are now investigating [learning based belief state representations](https://sites.google.com/umn.edu/pebs) and [reinforcement learning based methods](https://gonultasbu.github.io/pursuit-evasion/) for pursuit-evasion. 
+For example, visibility plays an important role in robotic systems. We study mathematical properties of visibility using both [classical methods](https://ieeexplore.ieee.org/document/1273987) and [learning-based approaches](https://rahulmoorthy19.github.io/VisDiff/). In the past, we solved a number of classical [visibiliy based pursuit-evasion games](https://conservancy.umn.edu/items/90b2aed5-3861-4a51-9768-4089a8083a9b). We are now investigating [learning based belief state representations](https://sites.google.com/umn.edu/pebs) and [reinforcement learning based methods](https://gonultasbu.github.io/pursuit-evasion/) for pursuit-evasion. 
 
 
-In addition to these fundamental results, we deployed field-grade robotic systems for environmental monitoring, agriculture and home automation applications. Below, you can find a sampling of these projects. 
+In addition to these fundamental results, we deployed field-grade (sometimes even commercial-grade) robotic systems for environmental monitoring, agriculture and home automation applications. Below, you can find a sampling of these projects. 
 
 
 
@@ -56,9 +56,9 @@ In addition to these fundamental results, we deployed field-grade robotic system
 
 ### Historical Notes
 
-Our logo was designed by Nikhil Karnad
+Our logo was designed by Nikhil Karnad.
 
-On our 20th anniversary, we modified our name from _Robotic Sensor Networks_ Lab to _Robotics, Sensing and Networks_ Lab to reflect the broadening scope of our research. 
+On our 20th anniversary, we are changing our name from _Robotic Sensor Networks_ Lab to _Robotics, Sensing and Networks_ Lab to reflect the broadening scope of our research. 
 
 
 
