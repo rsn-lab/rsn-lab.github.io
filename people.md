@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Lab Director
-* [Volkan Isler](https://www-users.cse.umn.edu/~isler/) 
+* [Volkan Isler](https://www.cs.utexas.edu/~isler/) 
 
 ## Current PhD students
 * Jiacheng Yuan
