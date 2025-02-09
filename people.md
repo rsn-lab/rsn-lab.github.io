@@ -63,6 +63,10 @@ layout: default
 - Seema Kamath
 
 ## Former Undergraduate Researchers
+- Ritik Mishra
+- Claire Zhang
+- Pranav Vijay
+- Barry Sly-Delgado
 - Dennis Melamed (2017-18; now M.S. student at CMU)
 - Abhi Kamboj (summer 2017)
 - Alan Koval (summer 2017)
