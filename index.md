@@ -2,8 +2,8 @@
 layout: default
 ---
 
-**NOTE:** The RSN Lab has recently moved from the University of Minnesota to the University of Texas at Austin [CS](https://www.cs.utexas.edu) and [Texas Robotics](https://robotics.utexas.edu). 
-This is our new website (currently under construction). In addition to the information below, you can visit [Prof. Isler's website](https://www.cs.utexas.edu/~isler/) or
+**NOTE:** The RSN Lab is now part of the University of Texas at Austin [Department of Computer Science](https://www.cs.utexas.edu) and [Texas Robotics](https://robotics.utexas.edu). 
+This new website is currently under construction. In addition to the information below, you can visit [Prof. Isler's website](https://www.cs.utexas.edu/~isler/) or
 the [the former RSN website](https://rsn.umn.edu/) for more information. 
 
 
