@@ -1,7 +1,7 @@
 
 ## PhD Theses
 0. Jiacheng Yuan [Robotic Perception and Manipulation in Unstructured Environments With Partial Observations
-](https://ezproxy.lib.utexas.edu/login?url=https://www.proquest.com/dissertations-theses/robotic-perception-manipulation-unstructured/docview/3241115510/se-2?accountid=7118)
+]((https://www.proquest.com/dissertations-theses/robotic-perception-manipulation-unstructured/docview/3241115510/
 0. Nicolai Haeni [Supervised and Unsupervised Methods for Vision-Based Object Detection, Counting and 3D Reconstruction](https://hdl.handle.net/11299/258747)
 0. Selim Engin [Multi-Robot Connectivity-Formation, Active Sensing and Control in Cooperative and Adversarial Settings](https://hdl.handle.net/11299/258728)
 0. Minghan Wei [Energy Mapping and Energy-aware Path Planning for Field Robots](https://hdl.handle.net/11299/226668)
