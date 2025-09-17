@@ -5,13 +5,12 @@ layout: default
 * [Volkan Isler](https://www.cs.utexas.edu/~isler/) 
 
 ## Current PhD students
-* Jiacheng Yuan
 * Burak Mert Gonultas
 * Qingyuan Jiang
 * Jun-Jee Chao
 * Oguzhan Goktug Poyrazoglu
-* Burak Susam
 * Rahul Moorthy Mahesh
+* Sumin Hu
 
 
 ## Current MS Students
@@ -22,6 +21,7 @@ layout: default
 
 
 ## PhD Alumni
+0. Jiacheng Yuan (Amazon) [thesis][https://www.proquest.com/dissertations-theses/robotic-perception-manipulation-unstructured/docview/3241115510/se-2?accountid=7118]
 0. Nicolai Haeni (MagicLeap) [thesis](https://hdl.handle.net/11299/258747)
 0. Selim Engin (Sony Research) [thesis](https://hdl.handle.net/11299/258728)
 0. Minghan Wei (Florida Atlantic University) [thesis](https://hdl.handle.net/11299/226668)
@@ -49,6 +49,7 @@ layout: default
 {: reversed="reversed"}
 
 ## MS Alumni
+- Burak Susam
 - Rahul Moorthy Mahesh
 - Abhijeet Kislay
 - Rudragouda Pharale
