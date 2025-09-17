@@ -21,7 +21,7 @@ layout: default
 
 
 ## PhD Alumni
-0. Jiacheng Yuan (Amazon) [thesis][https://www.proquest.com/dissertations-theses/robotic-perception-manipulation-unstructured/docview/3241115510/se-2?accountid=7118]
+0. Jiacheng Yuan (Amazon) [thesis](https://www.proquest.com/dissertations-theses/robotic-perception-manipulation-unstructured/docview/3241115510/se-2?accountid=7118)
 0. Nicolai Haeni (MagicLeap) [thesis](https://hdl.handle.net/11299/258747)
 0. Selim Engin (Sony Research) [thesis](https://hdl.handle.net/11299/258728)
 0. Minghan Wei (Florida Atlantic University) [thesis](https://hdl.handle.net/11299/226668)
