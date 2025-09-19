@@ -26,7 +26,7 @@ layout: default
 0. Selim Engin (Sony Research) [thesis](https://hdl.handle.net/11299/258728)
 0. Minghan Wei (Florida Atlantic University) [thesis](https://hdl.handle.net/11299/226668)
 0. Nikolaos Stefas (Startup) [thesis](https://hdl.handle.net/11299/216332)
-0. Wenbo Dong (Target AI) [thesis](https://hdl.handle.net/11299/224609)
+0. Wenbo Dong (Apple) [thesis](https://hdl.handle.net/11299/224609)
 0. Cheng Peng (Meta Reality Labs) [thesis](https://hdl.handle.net/11299/226644)
 0. Pravakar Roy (Apple) [thesis](https://hdl.handle.net/11299/211321)
 0. Patrick Plonski (Farm Vision Technologies) [thesis](https://hdl.handle.net/11299/215070)
