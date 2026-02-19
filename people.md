@@ -30,7 +30,7 @@ layout: default
 0. Cheng Peng (Meta Reality Labs) [thesis](https://hdl.handle.net/11299/226644)
 0. Pravakar Roy (Apple) [thesis](https://hdl.handle.net/11299/211321)
 0. Patrick Plonski (Farm Vision Technologies) [thesis](https://hdl.handle.net/11299/215070)
-0. Narges Noori (Waymo) [thesis](https://hdl.handle.net/11299/178937)
+0. Narges Noori () [thesis](https://hdl.handle.net/11299/178937)
 0. Josh Vanderhook (Startup) [thesis](https://hdl.handle.net/11299/175716)
 0. Pratap Tokekar (University of Maryland) [thesis](https://hdl.handle.net/11299/168316)
 0. Nikhil Karnad (Google) [thesis](https://hdl.handle.net/11299/175532)
