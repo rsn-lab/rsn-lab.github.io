@@ -4,23 +4,30 @@ layout: default
 ## Lab Director
 * [Volkan Isler](https://www.cs.utexas.edu/~isler/) 
 
-## Current PhD students
-* Burak Mert Gonultas
-* Qingyuan Jiang
-* Jun-Jee Chao
-* Oguzhan Goktug Poyrazoglu
-* Rahul Moorthy Mahesh
-* Sumin Hu
+## Current Postdocs
+* [Keyhan Kouhkiloui](https://kkouhkil.github.io/)
 
+## Current PhD students
+* [Burak Mert Gonultas](https://github.com/gonultasbu)
+* [Oguzhan Goktug Poyrazoglu](https://www.linkedin.com/in/ogpoyrazoglu/)
+* [Rahul Moorthy Mahesh](https://rahulmoorthy19.github.io/rahul.github.io/)
+* [Sumin Hu](https://suminhu.com/)
+* [Yukang Cao](https://www.linkedin.com/in/yukang-cao-012177220/)
+* [Alvin Jinsung Choi](https://github.com/alvinjinsung)
+* [Umut Ozyurt](https://umutozyurt.com/)
 
 ## Current MS Students
-* Yukang Cao
+* [Tanay Garg](https://github.com/Tanyk2004)
+* [Piyush Kumar](https://pkj415.github.io/)
 
 ## Current Undergrads 
-* William Chastek
+* Masamu Oshita 
+* Saachi Agrawal
 
 
 ## PhD Alumni
+0. [Qingyuan Jiang](https://qingyuan-jiang.github.io/) (Apple) [thesis](https://www.proquest.com/docview/3357969813)
+0. [Jun-Jee Chao](https://giles200619.github.io/) (NVIDIA) [thesis](https://www.proquest.com/docview/3336729118)
 0. Jiacheng Yuan (Amazon) [thesis](https://www.proquest.com/dissertations-theses/robotic-perception-manipulation-unstructured/docview/3241115510/)
 0. Nicolai Haeni (MagicLeap) [thesis](https://hdl.handle.net/11299/258747)
 0. Selim Engin (Sony Research) [thesis](https://hdl.handle.net/11299/258728)
@@ -49,8 +56,9 @@ layout: default
 {: reversed="reversed"}
 
 ## MS Alumni
+- Yukang Cao [thesis](https://www.proquest.com/docview/3376412847)
 - Burak Susam
-- Rahul Moorthy Mahesh
+- Rahul Moorthy Mahesh [thesis](https://www.proquest.com/docview/2840924052)
 - Abhijeet Kislay
 - Rudragouda Pharale
 - Gabriel Oliveira
@@ -64,6 +72,7 @@ layout: default
 - Seema Kamath
 
 ## Former Undergraduate Researchers
+- William Chastek
 - Ritik Mishra
 - Claire Zhang
 - Pranav Vijay
