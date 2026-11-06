@@ -67,6 +67,8 @@ On our 20th anniversary, we are changing our name from _Robotic Sensor Networks_
 
 ![image_from_ios](https://github.com/user-attachments/assets/9609d8e4-57c1-42d7-81c8-a8599c76c1ea)
 
+![RSN group photo](/rsn-group-photo.jpg)
+
 ```
 Thank you for visiting!
 ```
